@@ -1,0 +1,41 @@
+.actions{
+	text-align: right;
+}
+
+.formAction{
+	display: inline-block;
+}
+
+.usuario{
+	margin: 30px;
+} 
+
+.thumbnail p{
+	font-family: monospace;
+	font-style: italic;
+}
+
+.alert-warning{
+	background-color: #FF69B4;
+	color: white;
+}
+
+.navbar-inverse {
+  background-color: #A52A2A;
+  border:none;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+  font-family: fantasy;
+  font-size: 1em;
+}
+.glyphicon-nav{
+	margin: 4px;
+}
+body{ background-image: url(../img/background.jpg); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; width: 100%; height: 100%; z-index: 8;}
+
+.btn-actions{
+	background-color: #800000;
+	color: white;
+}

@@ -1,0 +1,13 @@
+ .navbar-inverse {
+  background-color: #A52A2A;
+  border:none;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+  font-family: fantasy;
+  font-size: 1em;
+}
+.glyphicon-nav{
+    margin: 4px;
+}

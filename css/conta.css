@@ -1,0 +1,59 @@
+html, body {height:100%;}
+
+.navbar-inverse {
+  background-color: #A52A2A;
+  border:none;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+  font-family: fantasy;
+  font-size: 2em;
+  -moz-transform: rotate(4deg);
+  -webkit-transform: rotate(4deg);
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #800000;
+  background-color: transparent;
+}
+
+.form-control:focus {
+  border-color: red;
+  outline: 0;
+}
+
+#form2, #form3, #form4,#form5{
+	display: none;
+}
+
+
+.container{
+	margin-top: 50px;
+}
+.form-horizontal{
+	margin-top: 40px;
+}
+
+#camposObrigatorios{
+  display: none;
+}
+
+.controle{;
+	text-align: right;
+}
+
+.footer{    
+    margin-bottom: 20px;
+    position:absolute;
+    bottom:0; 
+    width:100%;
+    margin-top: 10px;
+    text-align: center;
+    color: #8B0000;
+}
+
+.action{
+  display: none;
+}
+

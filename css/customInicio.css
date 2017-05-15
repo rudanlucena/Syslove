@@ -1,0 +1,27 @@
+.action{
+  display: none;
+}
+.menu{
+	display: none;
+}
+#nav li{
+	margin: 0px;
+	border: none;
+}
+#nav a{
+	margin: 0px;
+	padding: 0px;
+}
+#nav button{
+	background-color: transparent;
+	border: none;
+}
+#nav .glyphicon{
+	margin: 5px;
+}
+.iconListMenu{
+	text-align: center;
+}
+.fotoPerfil{
+	text-align: center;
+}
